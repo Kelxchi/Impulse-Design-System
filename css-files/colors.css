@@ -1,0 +1,13 @@
+
+:root {
+    /* Use for CTA buttons */
+    --colorPrimaryColor: #38a3a5;    
+    /* Use for text on Pimary */
+    --colorOnPrimaryColor: #cfe5e5;    
+    /* Use for cards */
+    --colorSecondaryColor: #60268e;    
+    /* Use this sparingly */
+    --colorNeutralColor: #575757;    
+    /* use for error filled layer */
+    --colorErrorRed: #f50c44;    
+}
