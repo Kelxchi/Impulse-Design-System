@@ -1,0 +1,6 @@
+
+:root {
+    --shadowPressedShadow: 0 6px 24px 0 rgba(0,0,0,0.08);  
+    --shadowHoverShadow: 0 4px 16px 0 rgba(0,0,0,0.12);  
+    --shadowMainShadow: 0 6px 24px 0 rgba(0,0,0,0.08);  
+}
